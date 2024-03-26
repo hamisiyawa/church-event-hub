@@ -110,7 +110,7 @@ section p.paragraph{
 }
 
 .banner-area .banner-img{
-    background-image: url('/images/banner-img1.jpg');
+    background-image: url('../images/banner-img1.jpg');
     position: absolute;
     top: 0;
     left: 0;
@@ -188,7 +188,7 @@ ul.about-content{
 
 .left{
     flex-basis: 30%;
-    background-image: url('/images/img2.jpg');
+    background-image: url('../images/img2.jpg');
 }
 
 li.right{
